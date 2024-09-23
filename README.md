@@ -1,0 +1,5 @@
+- 👋 Hi, I’m sai santhosh 
+- 👀 I’m interested in data science and machine learning 
+- 🌱 I’m currently learning machine learning 
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ... svemula698@gmail.com
